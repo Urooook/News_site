@@ -1,0 +1,56 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.card-img{
+    transition: 0.35s all ease;
+    &:hover{
+        transform: scale(1.015);
+    }
+}
+.authGroup{
+    width:300px;
+    margin: 0 auto;
+}
+.vkAuth a{
+    padding:6px;
+    background-color: rgb(55, 148, 190);
+    color:white;
+    font-weight: 700;
+    border-radius: 3px;
+    text-align:center;
+    transition:0.3s all ease;
+    
+}
+.vkAuth a:hover{
+    text-decoration: none;
+    transform: scale(1.01);
+    background-color: #fff;
+    color:rgb(55, 148, 190);
+    border:1px solid rgb(55, 148, 190);
+}
+.avatar-icon{
+    border-radius: 50%;
+}
+
+.news-container{
+    
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.news-card{
+    width: 300px;
+    margin-right:4%;
+    margin-bottom: 25px;
+    
+}
+.newsOne{
+    width: 600px;
+}

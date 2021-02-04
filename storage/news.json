@@ -1,0 +1,108 @@
+{
+    "1": {
+        "id": 1,
+        "title": "Новость 1",
+        "text": "А у нас новость 1 и она очень хорошая!",
+        "isPrivate": false,
+        "image": null,
+        "category": 1
+    },
+    "2": {
+        "id": 2,
+        "title": "Новость 2",
+        "text": "А у нас новость2 и она очень хорошая!",
+        "isPrivate": true,
+        "image": null,
+        "category": 1
+    },
+    "3": {
+        "id": 3,
+        "title": "Новость 3",
+        "text": "А у нас новость 3 и она очень хорошая!",
+        "isPrivate": false,
+        "image": null,
+        "category": 2
+    },
+    "4": {
+        "id": 4,
+        "title": "Новость 4",
+        "text": "А у нас новость4 и она очень хорошая!",
+        "isPrivate": true,
+        "image": null,
+        "category": 2
+    },
+    "5": {
+        "title": "Новость 5",
+        "text": "qasadaa",
+        "category": "1",
+        "id": 5
+    },
+    "6": {
+        "title": "Новость 6",
+        "text": "Новость 6 и она огонь",
+        "category": "1",
+        "id": 6
+    },
+    "7": {
+        "title": "Новость 7",
+        "text": "fgdfghhfghdfh",
+        "category": "1",
+        "id": 7
+    },
+    "8": {
+        "title": "Новость 9",
+        "text": "Spirt",
+        "category": "1",
+        "image": "http:\/\/lproject1\/public\/storage\/images\/BDSCCZz4qo9hFHACjEXA5K7yjKhN95PN1jOx4xCc.jpeg",
+        "id": 8
+    },
+    "9": {
+        "title": "Новость 10",
+        "text": "Politics",
+        "category": "2",
+        "image": "http:\/\/lproject1\/public\/storage\/images\/LqSrgXYlPz21lxPzG4GEhBoXHPfoBNcjv9lt4aZF.jpeg",
+        "id": 9
+    },
+    "10": {
+        "title": "News 11",
+        "text": "News 11 and it's excellent",
+        "category": "2",
+        "image": "http:\/\/lproject1\/public\/storage\/images\/srgjuSPX6RmHE56BqJDOE4Mj69q64ilJH6RxyTD4.jpeg",
+        "id": 10
+    },
+    "11": {
+        "title": "news12",
+        "text": null,
+        "category": "1",
+        "image": "http:\/\/lproject1\/public\/storage\/images\/53mFxDShHGBVGqnvBmq0iyAHEsDigningZmz01Y9.jpeg",
+        "id": 11
+    },
+    "12": {
+        "title": "Тест",
+        "text": "тест",
+        "category": "1",
+        "image": "http:\/\/lproject1\/public\/storage\/images\/5iYYpM856zVVd2eDEj8AW8zvsPNfNWqVtWDhZHII.jpeg",
+        "id": 12
+    },
+    "13": {
+        "title": "апрр",
+        "text": "пврапр",
+        "category": "1",
+        "image": "http:\/\/lproject1\/storage\/images\/hjZBwWV7aFlhUqzIzID8wCHBxjq2FcDc45U0pReI.jpeg",
+        "id": 13
+    },
+    "14": {
+        "title": "нварпр",
+        "text": null,
+        "category": "1",
+        "image": "\/storage\/images\/yPhayAxCHw4L1rnjt46IJE0cCIHEbV0Z0TXqjbUT.jpeg",
+        "id": 14
+    },
+    "15": {
+        "title": "Новость 15",
+        "text": "Новость 15 и она гуд",
+        "category": "2",
+        "image": "\/storage\/images\/HHt71hU8vK5eNOTUMPJZlXZ55KfzmLbjzW66Z1Ks.jpeg",
+        "id": 15
+    }
+}
